@@ -105,3 +105,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 - **Made with ❤️ for learning OOP in Python**
+
+### Program Output
+
+![Musical Instrument Inventory Output](./img/musical_instrument_inventory.png)
